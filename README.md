@@ -1,6 +1,6 @@
 # 🌼 Machine Learning Basics with SVM and Linear Regression
 
-This repository contains a beginner-friendly collection of machine learning implementations using Python and Scikit-learn. It demonstrates how to perform classification using Support Vector Machines (SVM) and regression using Linear Regression on popular datasets such as Iris and Breast Cancer.
+This repository contains a beginner-friendly collection of machine learning implementations using Python and Scikit-learn. It demonstrates how to perform classification using Support Vector Machines (SVM) and regression using Linear Regression on popular datasets such as Iris and Breast Cancer. Check .html for the result!
 
 ---
 
@@ -65,7 +65,7 @@ pip install pandas matplotlib scikit-learn scipy seaborn
 ## 🧠 Author
 
 **2208107010031 - [Ammar Qurthuby]**  
-Informatics Student | Machine Learning Enthusiast
+Informatics Student 
 
 ---
 
